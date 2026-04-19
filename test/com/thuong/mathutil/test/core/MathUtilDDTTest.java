@@ -32,7 +32,7 @@ public class MathUtilDDTTest {
                                     {2, 2},
                                     {3, 6},
                                     {4, 24},
-                                    {5, 120}
+                                    {6, 720}
         };
     }
     //giải sử loop qua từng dòng của mảng, ta vẫn cần gán từng value của cột vào biến 
